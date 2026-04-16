@@ -33,6 +33,40 @@ Overall, this project demonstrates how data analytics, machine learning, and bus
 
 ##  Result
 Achieved ~83% accuracy in predicting customer churn.
+## Recommendations
+Based on the analysis and findings of the customer churn prediction project, the following recommendations are suggested to reduce churn and improve customer retention:
+1. Improve Payment Experience
+Provide discounts or cashback offers for customers using Cash on Delivery and E-Wallet.
+Encourage users to switch to auto-payment options (Credit/Debit cards) for better retention.
+2. Focus on New Customers
+Customers with low tenure are more likely to churn.
+Provide welcome offers, onboarding support, and early engagement programs to retain them.
+3. Optimize Pricing Strategies
+High monthly charges increase churn probability.
+Introduce flexible pricing plans and loyalty discounts for long-term customers.
+4. Enhance Customer Support
+Customers with frequent complaints tend to leave.
+Improve:
+Response time
+Issue resolution speed
+Customer satisfaction tracking
+5. Use Predictive Model Regularly
+Deploy the churn prediction model to:
+Identify high-risk customers early
+Send targeted offers or retention campaigns
+Integrate the model into business systems for continuous monitoring.
+6. Strengthen Customer Engagement
+Send personalized emails, offers, and notifications
+Use customer behavior data to improve engagement strategies
+7. Improve Services in Tier 2 & Tier 3 Cities
+Provide better network/service quality and support
+Offer region-specific plans or benefits
+8. Retain High-Value Customers
+Focus on customers with high monthly revenue
+Offer:
+Premium support
+Loyalty rewards
+Exclusive benefits
 
 ## Files
 - project work.ipynb
